@@ -1,9 +1,9 @@
-#Linux Android x86
+# Linux Android x86
 
-##Descrição
+## Descrição
 Este é um repositório focado no desenvolvimento de kernels Android-x86, um projeto que permite executar o sistema operacional Android em computadores e dispositivos com arquitetura x86. O projeto é um fork do repositório linux original mantido por maurossi.
 
-##Características Principais
+## Características Principais
 - **Tipo**: Kernel Linux modificado para Android-x86
 - **Branch Principal**: kernel-5.5_si_ylng
 - **Licença**: Other
@@ -11,28 +11,28 @@ Este é um repositório focado no desenvolvimento de kernels Android-x86, um pro
 - **Criado**: 06 de março de 2020
 - **Última atualização**: 28 de julho de 2022
 
-##Objetivo
+## Objetivo
 O objetivo principal deste projeto é fornecer suporte e desenvolvimento para kernels Linux otimizados para execução do Android em arquitetura x86, permitindo que usuários possam executar o sistema Android em seus computadores pessoais e outros dispositivos x86.
 
-##Estrutura
+## Estrutura
 - Fork do projeto linux original (https://github.com/maurossi/linux)
 - Focado em otimizações e modificações específicas para compatibilidade com Android-x86
 - Mantém as funcionalidades essenciais do kernel Linux enquanto adiciona suporte específico para Android
 
-##Estado do Projeto
+## Estado do Projeto
 - Repositório público e aberto para colaboração
 - Sem issues abertas atualmente
 - Mantém compatibilidade com o projeto upstream
 - Tamanho do repositório: ~1.8GB
 
-##Contribuição
+## Contribuição
 O projeto está aberto para:
 - Forks
 - Pull Requests
 - Colaboração da comunidade
 - Melhorias e otimizações
 
-##Recursos Disponíveis
+## Recursos Disponíveis
 - Suporte a downloads
 - Wiki habilitada
 - Projetos habilitados
@@ -40,7 +40,7 @@ O projeto está aberto para:
 - Squash merging permitido
 - Rebase merging permitido
 
-#Linux kernel
+# Linux kernel
 ============
 
 There are several guides for kernel developers and users. These guides can
